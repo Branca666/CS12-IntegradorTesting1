@@ -1,0 +1,11 @@
+{
+  "name": "practicaintegradora-cs12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
