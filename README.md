@@ -1,5 +1,5 @@
 # CS12-IntegradorTesting1 - JEST
-Clase sincrónica 12 - Testing 1 - CTD
+Clase sincrónica 12 - Testing 1 - Certified Tech Developer
 
 Práctica integradora
 Objetivo
